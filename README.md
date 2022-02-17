@@ -82,3 +82,53 @@ Testes unitários
 # Envio das questões
 As soluções para as questões devem ser hospedadas no GitHub e o link do repositório deve ser postado na sua área do candidato a partir do dia 14/02/2022. Para entrar na sua área do candidato acesse: https://capgemini.proway.com.br/inscricao/login.php. O link do repositório deve ser postado no campo “Github para o desafio de programação”. O link deve ser similar a este: https://github.com/nome-de-usuario/repositorio. Lembrando que a data final para postagem do desafio será no dia 20/02/2022. Quanto antes você fizer, maiores as chances de ser selecionado (a) para a próxima etapa. 🚀
 O repositório deve conter um arquivo README.md com as instruções de como rodar a aplicação e as tecnologias utilizadas.
+
+
+DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI
+
+
+# Desafio Capgemini
+
+---
+
+### Questão 01
+
+Classe principal [Questao1](https://github.com/Paulo-Ultra/Desafio-Capgemini-2022/tree/main/Questao1/src/main/java)
+
+Teste [Questao1](https://github.com/Paulo-Ultra/Desafio-Capgemini-2022/tree/main/Questao1/src/test/java)
+
+### Questão 02
+Classe principal [Questao2](https://github.com/Paulo-Ultra/Desafio-Capgemini-2022/tree/main/Questao2/src/main/java)
+
+Teste [Questao2](https://github.com/Paulo-Ultra/Desafio-Capgemini-2022/tree/main/Questao2/src/test/java)
+
+### Questão 03
+
+Classe principal [Questao3](https://github.com/Paulo-Ultra/Desafio-Capgemini-2022/tree/main/Questao3/src/main/java)
+
+Teste [Questao3](https://github.com/Paulo-Ultra/Desafio-Capgemini-2022/blob/main/Questao3/src/test/java/MainTest.java)
+
+#### Testes unitários
+
+Os testes unitários foram feitos com a biblioteca JUnit 4.13.2
+
+#### Executando a aplicação:
+
+1 - Para compilar o projeto e gerar o arquivo .jar executável:
+
+```Maven
+mvn clean install
+```
+
+2 - Para executar os testes unitários:
+
+```Maven
+mvn clean test
+```
+3 - Para executar o projeto:
+
+```Bash
+java - jar target/Questao1-1.0-SNAPSHOT.jar
+java - jar target/Questao2-1.0-SNAPSHOT.jar
+java - jar target/Questao3-1.0-SNAPSHOT.jar
+
