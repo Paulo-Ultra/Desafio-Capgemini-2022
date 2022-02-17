@@ -1,3 +1,6 @@
+<img align="center" width="500" src="https://github.com/Paulo-Ultra/Desafio-Capgemini-2022/blob/main/logo-capgemini.png" style="max-width:200%;">
+     </a>
+
 # Desafio-Capgemini-2022
 
 ## DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI
